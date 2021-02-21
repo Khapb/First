@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Cursor
-=======
-Hello
->>>>>>> second
